@@ -1,0 +1,60 @@
+.h1{
+    text-align: center;
+    font-size: larger;
+    }
+    .imagem{
+        border: 1px solid black;
+        padding: 20px;
+        margin-bottom: 10px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .natal{
+        width: 20px;
+    }
+    .nyan{
+        height: 250px;
+        width: 100%;
+    }
+    .mesnovembro{
+        color: grey;
+    }
+    .anonovo{
+        width: 16px;
+    }
+    .jan{
+        color: gray;
+    }
+    .body{
+        color: black;
+    }
+    #feriado:hover{
+        background-color: lightskyblue;
+    }
+    #vespera:hover{
+        background-color: rgb(209, 209, 98);
+    }
+    #dom:hover{
+        background-color: lightgreen;
+    }
+    #seg:hover{
+        background-color: rgb(238, 216, 144);
+    }
+    #ter:hover{
+        background-color: rgb(143, 241, 192);
+    }
+    #qua:hover{
+        background-color: rgb(150, 144, 238);
+    }
+    #qui:hover{
+        background-color: rgb(66, 197, 248);
+    }
+    #sex:hover{
+        background-color: rgb(253, 175, 103);
+    }
+    #sab:hover{
+        background-color: rgb(250, 100, 237);
+    }
